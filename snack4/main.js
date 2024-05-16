@@ -4,6 +4,7 @@
 const partyNames = ['Luca', 'Adele', 'Giovanni', 'Francesco', 'Debora', 'Batman', 'Pippo Baudo'];
 const userInput = prompt('Benvenuto nel grande party di Gatsby, dicci il tuo nome e verificheremo se sei sulla lista.');
 
+//Check se sei invitato
 if (partyNames.includes(userInput)) {
     window.alert('Bevenuto al party!')
 } else {
