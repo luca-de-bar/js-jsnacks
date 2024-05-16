@@ -8,5 +8,6 @@ const userInput = prompt('Benvenuto nel grande party di Gatsby, dicci il tuo nom
 if (partyNames.includes(userInput)) {
     window.alert('Bevenuto al party!')
 } else {
-    window.alert('Spiacente, non sei invitato!')
+    window.alert('Spiacente, non sei invitato! Se paghi 500€ posso aggiungerti in lista.')
+    partyNames.push(userInput);
 }
