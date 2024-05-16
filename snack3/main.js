@@ -7,6 +7,7 @@ for (let i = 0; i < 10; i++) {
     let userInput = prompt('Inserisci un numero');
     myNumbers.push(Number(userInput));
 }
+console.log(myNumbers)
 
 // Inizializza una variabile per tenere traccia della somma
 let somma = 0;
