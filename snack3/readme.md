@@ -1,0 +1,1 @@
+- Il software chiede per 10 volte all'utente di inserire un numero, poi stampa la somma di tutti i numeri
