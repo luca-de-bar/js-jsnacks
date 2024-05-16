@@ -14,7 +14,7 @@ if (isNaN(floatFirstNumber) || isNaN(floatSecondNumber)) {
     window.alert('Inserisci un numero valido');
 } else if (stringFirstNumber.trim() === "" || stringFirstNumber === null) {
     window.alert('Inserisci un valore')
-} else if (stringSecondNumber.trim()==="" || stringSecondNumber===null)
+} else if (stringSecondNumber.trim() === "" || stringSecondNumber === null)
 
 
 //Individua il numero maggiore    
