@@ -11,4 +11,4 @@
 
 -forEach : L'ho utilizzato in una versione precedente del codice (che non ho pushato) per printare gli elementi dell'array myOddNumbers. Ho quindi potuto capire come funziona.
 
--.join() Dalla documentazione su MDN ho potuto verificare il funzionamento di questo metodo. In sostanza trasforma in una stringa gli elementi di un array, io di seguito printo il tutto in un unico console.log(). Di default join.() separa in automatico gli elementi con virgola ma posso decidere di farli separare con '-' semplicemnete scrivendo join('-')
+- .join() Dalla documentazione su MDN ho potuto verificare il funzionamento di questo metodo. In sostanza trasforma in una stringa gli elementi di un array, io di seguito printo il tutto in un unico console.log(). Di default join.() separa in automatico gli elementi con virgola ma posso decidere di farli separare con '-' semplicemnete scrivendo join('-')
