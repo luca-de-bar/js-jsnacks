@@ -28,7 +28,7 @@ for (let i = 1; i <= 6; i++){
             break;
     }
 
-    const userInput = parseFloat(prompt(`Inserisci il ${changeSequence} numero`));
+    const userInput = parseInt(prompt(`Inserisci il ${changeSequence} numero`));
     
     //Se dispari, aggiungo all'array
     if (userInput % 2 != 0) {
